@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diedeutschegram00schegoog_0215.png"; bbox 0 0 2786 4406; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 450 1969 1057 2021">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 450 1969 1057 2021">
+     <span class='ocr_line' id='line_1_1' title="bbox 450 1969 1057 2021; baseline 0.005 -10"><span class='ocrx_word' id='word_1_1' title='bbox 450 1969 533 2013; x_wconf 74' lang='lat' dir='ltr'>Hallo</span> <span class='ocrx_word' id='word_1_2' title='bbox 547 1981 567 2014; x_wconf 74' lang='lat' dir='ltr'><strong>a.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 579 1969 615 2021; x_wconf 79' lang='lat' dir='ltr'><strong>S..</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 635 1969 811 2013; x_wconf 78' lang='lat' dir='ltr'><strong>Buchdruekorei</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 825 1970 863 2013; x_wconf 78' lang='lat' dir='ltr'><strong>des</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 878 1969 1057 2014; x_wconf 64' lang='lat' dir='ltr'><strong>Waisonhaum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1398 4406">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1398 4406">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1398 4406; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1398 4406; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
